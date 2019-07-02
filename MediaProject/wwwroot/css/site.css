@@ -1,0 +1,9 @@
+﻿body {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container-fluid {
+    margin: 40px 0;
+}

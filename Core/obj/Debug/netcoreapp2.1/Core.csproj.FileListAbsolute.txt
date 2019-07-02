@@ -1,0 +1,10 @@
+C:\Users\jobc7_000\Desktop\Проекты\Media\MediaProject\Core\bin\Debug\netcoreapp2.1\Core.deps.json
+C:\Users\jobc7_000\Desktop\Проекты\Media\MediaProject\Core\bin\Debug\netcoreapp2.1\Core.dll
+C:\Users\jobc7_000\Desktop\Проекты\Media\MediaProject\Core\obj\Debug\netcoreapp2.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\jobc7_000\Desktop\Проекты\Media\MediaProject\Core\obj\Debug\netcoreapp2.1\Core.AssemblyInfoInputs.cache
+C:\Users\jobc7_000\Desktop\Проекты\Media\MediaProject\Core\obj\Debug\netcoreapp2.1\Core.AssemblyInfo.cs
+C:\Users\jobc7_000\Desktop\Проекты\Media\MediaProject\Core\bin\Debug\netcoreapp2.1\Core.runtimeconfig.json
+C:\Users\jobc7_000\Desktop\Проекты\Media\MediaProject\Core\bin\Debug\netcoreapp2.1\Core.runtimeconfig.dev.json
+C:\Users\jobc7_000\Desktop\Проекты\Media\MediaProject\Core\bin\Debug\netcoreapp2.1\Core.pdb
+C:\Users\jobc7_000\Desktop\Проекты\Media\MediaProject\Core\obj\Debug\netcoreapp2.1\Core.dll
+C:\Users\jobc7_000\Desktop\Проекты\Media\MediaProject\Core\obj\Debug\netcoreapp2.1\Core.pdb

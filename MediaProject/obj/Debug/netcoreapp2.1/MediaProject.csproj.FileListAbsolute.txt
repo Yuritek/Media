@@ -1,0 +1,17 @@
+C:\Users\jobc7_000\Desktop\Проекты\Media\MediaProject\MediaProject\bin\Debug\netcoreapp2.1\MediaProject.deps.json
+C:\Users\jobc7_000\Desktop\Проекты\Media\MediaProject\MediaProject\bin\Debug\netcoreapp2.1\MediaProject.runtimeconfig.json
+C:\Users\jobc7_000\Desktop\Проекты\Media\MediaProject\MediaProject\bin\Debug\netcoreapp2.1\MediaProject.runtimeconfig.dev.json
+C:\Users\jobc7_000\Desktop\Проекты\Media\MediaProject\MediaProject\bin\Debug\netcoreapp2.1\MediaProject.dll
+C:\Users\jobc7_000\Desktop\Проекты\Media\MediaProject\MediaProject\bin\Debug\netcoreapp2.1\MediaProject.pdb
+C:\Users\jobc7_000\Desktop\Проекты\Media\MediaProject\MediaProject\bin\Debug\netcoreapp2.1\Core.dll
+C:\Users\jobc7_000\Desktop\Проекты\Media\MediaProject\MediaProject\bin\Debug\netcoreapp2.1\Core.pdb
+C:\Users\jobc7_000\Desktop\Проекты\Media\MediaProject\MediaProject\obj\Debug\netcoreapp2.1\MediaProject.csprojAssemblyReference.cache
+C:\Users\jobc7_000\Desktop\Проекты\Media\MediaProject\MediaProject\obj\Debug\netcoreapp2.1\MediaProject.csproj.CoreCompileInputs.cache
+C:\Users\jobc7_000\Desktop\Проекты\Media\MediaProject\MediaProject\obj\Debug\netcoreapp2.1\MediaProject.RazorAssemblyInfo.cache
+C:\Users\jobc7_000\Desktop\Проекты\Media\MediaProject\MediaProject\obj\Debug\netcoreapp2.1\MediaProject.RazorAssemblyInfo.cs
+C:\Users\jobc7_000\Desktop\Проекты\Media\MediaProject\MediaProject\obj\Debug\netcoreapp2.1\MediaProject.AssemblyInfoInputs.cache
+C:\Users\jobc7_000\Desktop\Проекты\Media\MediaProject\MediaProject\obj\Debug\netcoreapp2.1\MediaProject.AssemblyInfo.cs
+C:\Users\jobc7_000\Desktop\Проекты\Media\MediaProject\MediaProject\obj\Debug\netcoreapp2.1\MediaProject.RazorTargetAssemblyInfo.cache
+C:\Users\jobc7_000\Desktop\Проекты\Media\MediaProject\MediaProject\obj\Debug\netcoreapp2.1\MediaProject.csproj.CopyComplete
+C:\Users\jobc7_000\Desktop\Проекты\Media\MediaProject\MediaProject\obj\Debug\netcoreapp2.1\MediaProject.dll
+C:\Users\jobc7_000\Desktop\Проекты\Media\MediaProject\MediaProject\obj\Debug\netcoreapp2.1\MediaProject.pdb
